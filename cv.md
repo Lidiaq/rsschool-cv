@@ -18,5 +18,29 @@
  * HTML
  * Adobe Photoshop
  * Delphi
- * PascalABC.NET
+ * PascalABC.NET  
+
+
+ ## Code example:  
+ **procedure** wwod;
+**var**
+  i, j: integer;
+**begin**
+  **for** i := 1 **to** 4 **do**
+    **for** j := 1 **to** n **do**
+      a[i, j] := random(9) + 1; 
+**end**;
+
+**procedure** vivod;
+**var**
+  i, j: integer;
+**begin**
+  **for** j := 1 **to** n **do**
+  **begin**
+    write('     ', j:4, '    |       ');
+    **for** i := 1 **to** 4 **do**
+      write(a[i, j], '   '); 
+    writeln;
+  **end**;
+**end**;
  
