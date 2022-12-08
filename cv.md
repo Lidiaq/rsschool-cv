@@ -1,4 +1,7 @@
- # Lydia Lysenkova
+ # Lydia Lysenkova  
+
+
+ ![аватарка](аватарка.jpg "фотография")
 
 
  ## Contact information:  
