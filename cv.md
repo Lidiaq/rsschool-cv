@@ -42,5 +42,16 @@ begin
       write(a[i, j], '   '); 
     writeln;
   end;
-end;```
- 
+end;
+```  
+
+
+## Work experience:  
+*Nothing yet.*  
+
+
+## Education:  
+**University**: Belarusian National Technical University, Specialty "Vocational training (computer science)"  
+
+## Language:  
+**English level**: A1-A2
