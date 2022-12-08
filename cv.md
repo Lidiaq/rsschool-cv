@@ -1,7 +1,7 @@
  # Lydia Lysenkova  
 
 
- ![Фотография](D:\Загрузки\папка с проетами\rsschool-cv/аватарка.jpg)
+ ![Фотография](аватарка.jpg)
 
 
  ## Contact information:  
