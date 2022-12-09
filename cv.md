@@ -1,10 +1,10 @@
- # Lydia Lysenkova  
+# Lydia Lysenkova  
 
 
  ![Фотография](аватарка.jpg)
 
 
- ## Contact information:  
+## Contact information:  
 **Phone**: +375 (25) 707-78-83  
 **E-mail**: agna.mamaeva17@gmail.com  
  **Telegram**: @tortimrrk  
@@ -13,18 +13,18 @@
  [Instagram](https://instagram.com/ll_poteryashka_ll?igshid=YmMyMTA2M2Y=)  
 
 
- ## About Me:  
+## About Me:  
  I am 18 years old, I am a second-year student of BNTU. I am interested in designing a website based on its design. My goal is to gain knowledge in the field of front-end development.  
 
 
- ## Skills:  
+## Skills:  
  * HTML
  * Adobe Photoshop
  * Delphi
  * PascalABC.NET  
 
 
- ## Code example:  
+## Code example:  
 ```procedure wwod;  
 var
   i, j: integer;
