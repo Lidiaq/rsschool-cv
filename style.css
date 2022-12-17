@@ -43,11 +43,6 @@ h2 {
     text-shadow: rgb(255, 253, 253) -4px 5px
 }
 
-#center {
-    text-align: center;
-    text-shadow: rgb(255, 253, 253) 0px 5px
-}
-
 #two {
     padding: 3%;
 }
@@ -62,4 +57,35 @@ p {
 code {
     font-size: 18px;
     color: rgb(6, 27, 27);
+}
+
+#hr_2{
+    width: 100%;
+    height: 4px;
+    color: black;
+}
+#hr_1{
+    width: 50%;
+    color: black;
+    height: 4px;
+}
+#hr_3{
+    width: 100%;
+    color: black;
+}
+#hr_4{
+    width: 100%;
+    color: black;
+}
+#hr_5{
+    width: 100%;
+    color: black;
+}
+#hr_6{
+    width: 100%;
+    color: black;
+}
+#hr_7{
+    width: 100%;
+    color: black;
 }
