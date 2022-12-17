@@ -64,7 +64,7 @@ code {
     color: rgb(6, 27, 27);
 }
 
-#hr_2{
+#hr_2 {
     width: 100%;
     height: 4px;
     color: black;
@@ -78,6 +78,27 @@ code {
     width: 100%;
     color: black;
 }
+#hr_4 {
+    width: 100%;
+    color: black;
+}
+#hr_5 {
+    width: 100%;
+    color: black;
+}
+#hr_6 {
+    width: 100%;
+    color: black;
+}
+#hr_7 {
+    width: 100%;
+    color: black;
+}
+#hr_8 {
+    width: 100%;
+    color: black;
+}
+
 
 #rig {
     text-align: right;
