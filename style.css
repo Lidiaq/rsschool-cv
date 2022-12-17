@@ -73,19 +73,15 @@ code {
     width: 100%;
     color: black;
 }
-#hr_4{
-    width: 100%;
-    color: black;
+
+#rig {
+    text-align: right;
 }
-#hr_5{
-    width: 100%;
-    color: black;
+
+.ppp {
+    float: left;
+    padding: 0% 3%;
 }
-#hr_6{
-    width: 100%;
-    color: black;
-}
-#hr_7{
-    width: 100%;
-    color: black;
+a{
+    font-size: 18px;
 }
