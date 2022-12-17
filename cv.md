@@ -25,7 +25,8 @@
 
 
 ## Code example:  
-```procedure wwod;  
+```  
+procedure wwod;  
 var
   i, j: integer;
 begin
@@ -45,7 +46,7 @@ begin
       write(a[i, j], '   '); 
     writeln;
   end;
-end;
+end;  
 ```  
 
 

@@ -1,1 +1,113 @@
+#one {
+    float: left;
+   padding: 3% 10%;
+   border-radius: 50%;
+}
 
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.fon{
+    background: #c8d3d2;
+    }
+
+#cont_0 { 
+        text-align: center;
+        text-shadow: rgb(255, 253, 253) 0px 5px
+}
+#cont_1 { 
+    text-align: left;
+    text-shadow: rgb(255, 253, 253) 4px 5px
+}
+#cont_2 { 
+    text-align: center;
+    text-shadow: rgb(255, 253, 253) 0px 5px
+}
+#cont_3 { 
+    text-align: right;
+    text-shadow: rgb(255, 253, 253) -4px 5px
+}
+#cont_4 { 
+    text-align: left;
+    text-shadow: rgb(255, 253, 253) 4px 5px
+}
+#cont_5 { 
+    text-align: center;
+    text-shadow: rgb(255, 253, 253) 0px 5px
+}
+#cont_6 { 
+    text-align: right;
+    text-shadow: rgb(255, 253, 253) -4px 5px
+}
+
+#two {
+    padding: 3%;
+}
+#text {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 3px;
+    text-indent: 3%;
+}
+p {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 3px;
+    text-indent: 3%;
+}
+
+code {
+    font-size: 18px;
+    color: rgb(6, 27, 27);
+}
+
+#hr_2 {
+    width: 100%;
+    height: 4px;
+    color: black;
+}
+#hr_1{
+    width: 50%;
+    color: black;
+    height: 4px;
+}
+#hr_3{
+    width: 100%;
+    color: black;
+}
+#hr_4 {
+    width: 100%;
+    color: black;
+}
+#hr_5 {
+    width: 100%;
+    color: black;
+}
+#hr_6 {
+    width: 100%;
+    color: black;
+}
+#hr_7 {
+    width: 100%;
+    color: black;
+}
+#hr_8 {
+    width: 100%;
+    color: black;
+}
+
+
+#rig {
+    text-align: right;
+}
+
+.ppp {
+    float: left;
+    padding: 0% 3%;
+}
+a{
+    font-size: 18px;
+}
