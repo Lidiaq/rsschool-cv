@@ -14,27 +14,38 @@ h2 {
     background: #c8d3d2;
     }
 
+#cont_0 { 
+        text-align: center;
+        text-shadow: rgb(255, 253, 253) 0px 5px
+}
 #cont_1 { 
     text-align: left;
+    text-shadow: rgb(255, 253, 253) 4px 5px
 }
 #cont_2 { 
     text-align: center;
+    text-shadow: rgb(255, 253, 253) 0px 5px
 }
 #cont_3 { 
     text-align: right;
+    text-shadow: rgb(255, 253, 253) -4px 5px
 }
 #cont_4 { 
     text-align: left;
+    text-shadow: rgb(255, 253, 253) 4px 5px
 }
 #cont_5 { 
     text-align: center;
+    text-shadow: rgb(255, 253, 253) 0px 5px
 }
 #cont_6 { 
     text-align: right;
+    text-shadow: rgb(255, 253, 253) -4px 5px
 }
 
 #center {
     text-align: center;
+    text-shadow: rgb(255, 253, 253) 0px 5px
 }
 
 #two {
@@ -46,4 +57,9 @@ p {
     line-height: 20px;
     margin-bottom: 3px;
     text-indent: 3%;
+}
+
+code {
+    font-size: 18px;
+    color: rgb(6, 27, 27);
 }
