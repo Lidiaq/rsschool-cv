@@ -4,12 +4,33 @@
    border-radius: 50%;
 }
 
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .fon{
     background: #c8d3d2;
     }
 
-#cont {
-
+#cont_1 { 
+    text-align: left;
+}
+#cont_2 { 
+    text-align: center;
+}
+#cont_3 { 
+    text-align: right;
+}
+#cont_4 { 
+    text-align: left;
+}
+#cont_5 { 
+    text-align: center;
+}
+#cont_6 { 
+    text-align: right;
 }
 
 #center {
@@ -24,4 +45,5 @@ p {
     font-size: 20px;
     line-height: 20px;
     margin-bottom: 3px;
+    text-indent: 3%;
 }
