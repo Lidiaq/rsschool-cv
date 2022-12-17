@@ -46,7 +46,12 @@ h2 {
 #two {
     padding: 3%;
 }
-
+#text {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 3px;
+    text-indent: 3%;
+}
 p {
     font-size: 20px;
     line-height: 20px;
