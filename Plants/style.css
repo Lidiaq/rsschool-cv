@@ -1,0 +1,212 @@
+@media screen and (max-width: 1440px){ html,body {min-width:1440px} }
+
+
+
+
+#1 {
+    width: 452;
+    height: 50;
+    display: inline-block;
+}
+
+ul {
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0 ; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+  }
+
+  a {text-decoration: none; /*убираем подчеркивание текста ссылок*/} 
+
+li {
+    display: inline-block;
+    margin: 46px 0 0 46px;
+    color: #010201;
+}
+
+.bloc img {
+    float: left;
+}
+
+
+.text img {
+float: left;
+position: absolute;
+width: 448.8px;
+height: 407.36px;
+left: 109px;
+top: 62px;
+}
+.text3 img {
+float: left;
+position: absolute;
+width: 464px;
+height: 479px;
+left: 867px;
+top: 93px;
+}
+
+.text4 {
+    position: absolute;
+    width: 507px;
+    height: 350px;
+    left: 109px;
+    top: 161px;
+}
+
+.text2 {        
+    position: absolute;
+    top: 96px;
+    left:782px;
+    height: 340px;
+    width: 549px;
+}
+
+.service img {
+    width: 329px;
+    height: 350px;
+}
+
+.photo {
+position: absolute;
+width: 1222px;
+height: 955px;
+margin: 224px 109px 121px 109px;
+padding: 0px;
+}
+    
+.welcome button {
+    position: absolute;
+    width: 158px;
+    height: 44px;
+    left: 782px;
+    top: 394px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #E06733;
+}
+
+.serv_text {
+
+position: absolute;
+width: 580px;
+height: 94px;
+left: 109px;
+top: 40px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+
+color: #499A18;
+}
+ .service2 {
+    margin: 40px 324px 116px 109px;
+ }
+
+.buttons {
+position: absolute;
+width: 559px;
+height: 50px;
+left: 557px;
+top: 69px;
+}
+
+.but_1 {
+    position: absolute;
+    width: 161px;
+    height: 50px;
+    left: 0px;
+    top: 69px;  
+    border-color: #E06733;
+    color: #E06733;
+    border-width: 1px;
+    border-style: solid;  
+    border-radius: 5px;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.but_2 {
+    position: absolute;
+    width: 161px;
+    height: 50px;
+    left: 198px;
+    top: 69px;
+    border-color: #E06733;
+    color: #E06733;
+    border-width: 1px;
+    border-style: solid;  
+    border-radius: 5px;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.but_3 {
+    position: absolute;
+    width: 161px;
+    height: 50px;
+    left: 395px;
+    top: 69px;
+    border-color: #E06733;
+    color: #E06733;
+    border-width: 1px;
+    border-style: solid;  
+    border-radius: 5px;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.qwe {
+  border-bottom: 1px solid #E3E1D5;
+  border-right:  1px solid #E3E1D5;
+  border-left:   1px solid #E3E1D5;
+  border-radius: 25px;
+}
+.qwe p{
+    text-align: center;
+
+}
+
+.sert {
+height: 405px;
+width: 1222px;
+left: 109px;
+top: 40px;
+border-radius: [object Object]px;
+}
+
+.but_4 {
+    position: absolute;
+    width: 162px;
+    height: 50px;
+    left: 480px;
+    top: 220px;
+    border-color: #E06733;
+    color: #E06733;
+    border-width: 1px;
+    border-style: solid;  
+    border-radius: 5px;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
